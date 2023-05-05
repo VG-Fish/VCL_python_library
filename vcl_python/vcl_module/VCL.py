@@ -39,7 +39,7 @@ class VCLParser:
                     self.ptr += 1
 
     def _read_variable(self):
-        pass
+        pass 
 
     def _read_non_iterator(self):
         value = ""
